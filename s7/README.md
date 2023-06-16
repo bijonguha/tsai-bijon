@@ -60,7 +60,7 @@
 - Parameters: 7356
 - Best Train Accuracy 99.31%  
 - Best Test Accuracy 99.46%  
-![image](./images/output_step4.png)
+![image](./images/output_step4_final.png)
 
 ### Analysis
 1. Final Model
