@@ -49,7 +49,7 @@
 2. The model satisfies all epoch, accuracy, and size requirements.
 3. LR rate scheduler and model capacity expansion helps achieve accuracy in 15 epochs.
 
-## Solution, Step 3 [Notebook](./ERA1_S7_step4.ipynb)
+## Solution, Step 4 [Notebook](./ERA1_S7_step4.ipynb)
 
 ### Target
 - Improve accuracy to meet target.
