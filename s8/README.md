@@ -40,6 +40,16 @@ Augmentation is performed using the Albumentations library. Three techniques are
 | Layer Normalization | [LN Notebook](./S8_ERA1_LN.ipynb) | 65.41 % | 72.52 % |
 | Batch Normalization | [BN Notebook](./S8_ERA1_BN.ipynb) | 67.36 % | 74.23 % |
 
+## Loss Curves
+
+### BN
+![loss-curves](./images/BN.png)
+
+### GN
+![loss-curves](./images/GN.png)
+
+### LN
+![loss-curves](./images/LN.png)
 
 ## Findings
 Batch Normalization achieved the highest training and test accuracies. Layer Normalization also performed well, with slightly lower accuracies. Group Normalization, however, yielded the lowest accuracies among the three techniques.
