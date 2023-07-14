@@ -38,7 +38,7 @@ Augmentation is performed using the Albumentations library. Three techniques are
 |-------|---------------|-------------------|---------------|
 | Group Normalization | [GN Notebook](./S8_ERA1_GN.ipynb) | 64.23 % | 70.24 % |
 | Layer Normalization | [LN Notebook](./S8_ERA1_LN.ipynb) | 65.41 % | 72.52 % |
-| Batch Normalization | [BN Notebook](./S8_ERA1_BN.ipynb) | 67.36 % | 74.23 % |
+| Batch Normalization | [BN Notebook](./S8_ERA1_BN.ipynb) | **67.36 %** | **74.23 %** |
 
 ## Loss Curves
 
