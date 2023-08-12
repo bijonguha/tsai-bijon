@@ -32,7 +32,9 @@
 
 ## Results
 
-![prediction](./images/PASCAL_VOC-0000003438-3c401c50.jpg)
+![prediction](./images/pred_img.JPG)
+
+![grad-cam](./images/pred_gradcam.JPG)
 
 ## 🎧 Gradio App
 
